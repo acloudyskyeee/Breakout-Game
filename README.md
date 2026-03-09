@@ -39,3 +39,7 @@ g++ -std=c++17 -O2 breakout.cpp -o breakout `sdl2-config --cflags --libs`
 - `D` / `→`：向右移动挡板
 - `Esc`：退出游戏
 - `R`：游戏结束后重新开始
+
+## 代码讲解文档
+
+- 详见 `SDL2_代码讲解.md`（面向 SDL2 初学者，包含项目结构和逐模块说明）。
